@@ -1,0 +1,17 @@
+body {
+  background-image: url("img/we\ 6.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+}
+
+body {
+  text-align: center;
+}
+h1{
+    color: rgb(133, 170, 222) ;
+    font-weight: 200;
+    font-style: italic;
+}
